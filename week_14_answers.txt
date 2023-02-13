@@ -1,0 +1,21 @@
+What are 3 advantages of deploying using Model Serving methods Vs. deploying on GitHub Pages or HuggingFace for free?
+
+I’m assuming that this is asking for differences in deployment to AWS vs some of the free services like GitHub Pages. Here are some of the advantages.
+The repo we use doesn’t have to be public for AWS whereas it has to for GitHUB pages
+AWS offers better scaling options when required whereas all free services have limitations in terms of compute and storage
+Much more easier to configure the whole stack with facilities like CloudFormation
+
+
+What is ML model deployment?
+
+Deploying a ML model is where a trained model is placed in a production (or could be dev also) where it can be used to make inferences or predictions (or whatever else it is intended to do). There is typically an API that exposes a way to run the model and provide the necessary inputs (or the location of the inputs) so that users can use the model.
+
+
+What is Causal Inference and How Does It Work?
+
+Causal inference is the process of drawing a conclusion that a specific action was the cause for the observed outcome. A simple example is concluding that taking aspirin caused the headache to go away. There are three conditions for causality: covariation, temporal precedence, and control for third variables. Third variables comprise alternative explanations for the observed causal relationship.
+
+
+What is serverless deployment and how its compared with deployment on server?
+
+Serverless deployment is where the application is deployed on a platform that executes it without specifying the details of the underlying instance or machine (hard metal or virtual). It requires the package to be deployed to be a container, like Docker, or some other construct like a lambda deployment package in AWS. Deploying on a server on the other hand involves running an instance (hard metal or virtual) and then running the application on it. This also involved deploying all the dependencies required on the instance although there are ways to simplify this (like using AWS AMIs).
