@@ -17,7 +17,7 @@ Resources:
     Properties:
       PackageType: Image
       Architectures:
-        - arm64
+        - x86_64
       Events:
         Root:
           Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api

@@ -1,0 +1,41 @@
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:29:21.712000 OpenBLAS WARNING - could not determine the L2 cache size on this system, assuming 256k
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:29:24.041000 There was a problem when trying to write in your cache folder (/home/sbx_user1051/.cache/huggingface/hub). You should set the environment variable TRANSFORMERS_CACHE to a writable directory.
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:29:29.295000 OpenBLAS WARNING - could not determine the L2 cache size on this system, assuming 256k
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:29:29.731000 There was a problem when trying to write in your cache folder (/home/sbx_user1051/.cache/huggingface/hub). You should set the environment variable TRANSFORMERS_CACHE to a writable directory.
+2023/02/13/[$LATEST]58696d20c5254228a91612067dee929a 2023-02-13T21:29:57.630000 OpenBLAS WARNING - could not determine the L2 cache size on this system, assuming 256k
+2023/02/13/[$LATEST]58696d20c5254228a91612067dee929a 2023-02-13T21:29:58.194000 There was a problem when trying to write in your cache folder (/home/sbx_user1051/.cache/huggingface/hub). You should set the environment variable TRANSFORMERS_CACHE to a writable directory.
+2023/02/13/[$LATEST]e85a6d2d8c844f828d14626fd4a95912 2023-02-13T21:30:00.176000 Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at model and are newly initialized: ['pre_classifier.bias', 'pre_classifier.weight', 'classifier.weight', 'classifier.bias']
+2023/02/13/[$LATEST]e85a6d2d8c844f828d14626fd4a95912 2023-02-13T21:30:00.176000 You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+2023/02/13/[$LATEST]e85a6d2d8c844f828d14626fd4a95912 2023-02-13T21:30:01.139000 START RequestId: ab8051bd-2ab0-4e9e-8f55-c7c096c07c13 Version: $LATEST
+2023/02/13/[$LATEST]e85a6d2d8c844f828d14626fd4a95912 2023-02-13T21:30:01.142000 END RequestId: ab8051bd-2ab0-4e9e-8f55-c7c096c07c13
+2023/02/13/[$LATEST]e85a6d2d8c844f828d14626fd4a95912 2023-02-13T21:30:01.142000 REPORT RequestId: ab8051bd-2ab0-4e9e-8f55-c7c096c07c13	Duration: 66215.48 ms	Billed Duration: 66216 ms	Memory Size: 1024 MB	Max Memory Used: 996 MB	
+2023/02/13/[$LATEST]58696d20c5254228a91612067dee929a 2023-02-13T21:30:07.473000 OpenBLAS WARNING - could not determine the L2 cache size on this system, assuming 256k
+2023/02/13/[$LATEST]58696d20c5254228a91612067dee929a 2023-02-13T21:30:07.929000 There was a problem when trying to write in your cache folder (/home/sbx_user1051/.cache/huggingface/hub). You should set the environment variable TRANSFORMERS_CACHE to a writable directory.
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:30:57.867000 Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at model and are newly initialized: ['classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight', 'classifier.bias']
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:30:57.867000 You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+2023/02/13/[$LATEST]58696d20c5254228a91612067dee929a 2023-02-13T21:30:57.886000 Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at model and are newly initialized: ['classifier.weight', 'pre_classifier.weight', 'classifier.bias', 'pre_classifier.bias']
+2023/02/13/[$LATEST]58696d20c5254228a91612067dee929a 2023-02-13T21:30:57.886000 You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+2023/02/13/[$LATEST]58696d20c5254228a91612067dee929a 2023-02-13T21:30:58.810000 START RequestId: 7945ead2-59bf-49e2-9d07-7340949540cb Version: $LATEST
+2023/02/13/[$LATEST]58696d20c5254228a91612067dee929a 2023-02-13T21:30:58.830000 END RequestId: 7945ead2-59bf-49e2-9d07-7340949540cb
+2023/02/13/[$LATEST]58696d20c5254228a91612067dee929a 2023-02-13T21:30:58.830000 REPORT RequestId: 7945ead2-59bf-49e2-9d07-7340949540cb	Duration: 51520.62 ms	Billed Duration: 51521 ms	Memory Size: 1024 MB	Max Memory Used: 825 MB	
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:30:58.834000 START RequestId: 508fed28-bd5f-4402-83ac-b46283597f2b Version: $LATEST
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:30:58.837000 END RequestId: 508fed28-bd5f-4402-83ac-b46283597f2b
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:30:58.837000 REPORT RequestId: 508fed28-bd5f-4402-83ac-b46283597f2b	Duration: 89712.19 ms	Billed Duration: 89713 ms	Memory Size: 1024 MB	Max Memory Used: 987 MB	
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:35:37.210000 START RequestId: 9bba397a-46fa-4bd8-9c81-96343aad018d Version: $LATEST
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:35:37.219000 END RequestId: 9bba397a-46fa-4bd8-9c81-96343aad018d
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:35:37.219000 REPORT RequestId: 9bba397a-46fa-4bd8-9c81-96343aad018d	Duration: 9.34 ms	Billed Duration: 10 ms	Memory Size: 1024 MB	Max Memory Used: 987 MB	
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:35:51.414000 START RequestId: d5b3a10a-5576-4ab7-b310-7686a029f4c6 Version: $LATEST
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:35:51.419000 END RequestId: d5b3a10a-5576-4ab7-b310-7686a029f4c6
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:35:51.419000 REPORT RequestId: d5b3a10a-5576-4ab7-b310-7686a029f4c6	Duration: 5.00 ms	Billed Duration: 6 ms	Memory Size: 1024 MB	Max Memory Used: 987 MB	
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:35:51.651000 START RequestId: caa38a7c-46d0-4aab-be4f-19ba54abae8b Version: $LATEST
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:35:51.660000 END RequestId: caa38a7c-46d0-4aab-be4f-19ba54abae8b
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:35:51.660000 REPORT RequestId: caa38a7c-46d0-4aab-be4f-19ba54abae8b	Duration: 8.78 ms	Billed Duration: 9 ms	Memory Size: 1024 MB	Max Memory Used: 987 MB	
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:37:17.631000 START RequestId: c26ba480-f418-45db-a23d-99c6da04e27e Version: $LATEST
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:37:20.884000 END RequestId: c26ba480-f418-45db-a23d-99c6da04e27e
+2023/02/13/[$LATEST]37863d306fcb4de5a0d92cb9d888fd83 2023-02-13T21:37:20.884000 REPORT RequestId: c26ba480-f418-45db-a23d-99c6da04e27e	Duration: 3253.17 ms	Billed Duration: 3254 ms	Memory Size: 1024 MB	Max Memory Used: 987 MB	
+
+Commands you can use next
+=========================
+[*] Tail Logs from All Support Resources and X-Ray: sam logs --stack-name SV-DB-Teslabot --tail --include-traces
+[*] Tail X-Ray Information: sam traces --tail
+

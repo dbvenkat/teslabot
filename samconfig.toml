@@ -1,0 +1,12 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "SV-DB-Teslabot"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-11cv34s7q3ep9"
+s3_prefix = "SV-DB-Teslabot"
+region = "us-east-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+disable_rollback = true
+image_repositories = ["SentimentFunction=164706505822.dkr.ecr.us-east-1.amazonaws.com/svdbteslabot0dbefe66/sentimentfunction35d37012repo"]
